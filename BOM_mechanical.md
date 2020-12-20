@@ -39,6 +39,7 @@
 |            |-----M5 x 50 |  |  |  |   |  |<strong>O</strong>|   
 | 1          | <strong>Bolt M6 x 50</strong> |  |  |  | 1 |  |<strong>O</strong>|
 | 1          | Bolt M8 x 40 |  |  | 1 |  |  |  |
+|            |     (M8 x 50)|  |  |  |  |  | (1) |
 | 1          | Bolt M8 x 55 |  | 1 |  |  |  |  |
 | 2          | Bolt M8 x 90 |  | 1 | 1 |  |  |  |
 |  |  |  |  |  |  |  |  |
