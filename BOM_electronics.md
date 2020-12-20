@@ -27,19 +27,3 @@
 | 1          | XL -400 Red |  |  | 1 |  |  |  |
 | 1          | XL -430 Green A & B |  |  |  | 1 |  |  |
 | 1          | XL -430 Blue |  |  |  | 1 |  |  |
-
-
-
-
-
-
-
-
-
-|            |-----M5 x 50 |  |  |  |   |  |<strong>O</strong>|   
-| 1          | <strong>Bolt M6 x 50</strong> |  |  |  | 1 |  |<strong>O</strong>|
-| 1          | <em>Bolt M8 x 40</em> |  |  | 1 |  |  |  |
-|            |-----(M8 x 50)|  |  |  |  |  | (1) |
-| 1          | Bolt M8 x 55 |  | 1 |  |  |  |  |
-| 2          | Bolt M8 x 90 |  | 1 | 1 |  |  |  |
-|  |  |  |  |  |  |  |  |
