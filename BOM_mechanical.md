@@ -17,17 +17,17 @@
 | 1          | Bearing 5x14x5 |  |  |  | 1 |  |  |
 |            |--------(5x16x5)|  |  |  |   |  | V(2)|           
 | 5          | Bearing 8x22x7 | 1 | 2 | 2 |  |  |  |
-| 7          | Bearing 3x10x4 | 3 | 2 | 2 |  |  |  |
+| 7          | Bearing 3x10x4 | 3 | 2 | 2 |  |  |(2)|
 |            |--------(5x10x6)|  |  |  |   |  | V(6)|   
 | 2          | Thrust Bearing 8x19x7 |  | 1 | 1 |  |  |  |
 | 1          | Half Bearing 90x120 |  | 1 |  |  |  |  |
 | 1          | Thrust Bearing 20x40x14 |  |  | 1 |  |  |  |
 |  |  |  |  |  |  |  |  |
-| 5          | M3 Lock nut | 2 | 1 | 1 |  | 1 |  |
+| 5          | <strong>M3 Lock nut</strong> | 2 | 1 | 1 |  | 1 |<strong>O</strong>|
 | 3          | M4 Lock nut |  | 1 | 1 |  | 1 |  |
 | 2          | M5 Lock nut |  |  |  | 2 |  |  |
-| 2          | M6 Lock nut |  |  |  | 2 |  |  |
-| 2          | M8 Lock nut |  | 1 | 1 |  |  |  |
+| 2          | <strong>M6 Lock nut</strong> |  |  |  | 2 |  |<strong>O</strong>|
+| 2          | <strong>M8 Lock nut</strong> |  | 1 | 1 |  |  |<strong>O</strong>|
 | 1          | <strong>M5 Washer</strong> |  |  |  | 1 |  |<strong>O</strong>|
 | 1          | <strong>M8 Washer</strong> |  |  | 1 |  |  |<strong>O</strong>|
 | 8          | Bolt M2 x 5 |  |  |  | 4 | 4 |  |
