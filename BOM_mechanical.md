@@ -28,12 +28,12 @@
 | 2          | M5 Lock nut |  |  |  | 2 |  |  |
 | 2          | M6 Lock nut |  |  |  | 2 |  |  |
 | 2          | M8 Lock nut |  | 1 | 1 |  |  |  |
-| 1          | M5 Washer |  |  |  | 1 |  |  |
-| 1          | M8 Washer |  |  | 1 |  |  |  |
+| 1          | <strong>M5 Washer</strong> |  |  |  | 1 |  |V|
+| 1          | <strong>M8 Washer</strong> |  |  | 1 |  |  |V|
 | 8          | Bolt M2 x 5 |  |  |  | 4 | 4 |  |
-| 4          | Bolt M3 x 5 |  |  |  | 2 | 2 |  |
-| 36         | <em>Bolt M3 x 10</em> | 11 | 10 | 10 |  | 5 |V|
-| 18         | Bolt M3 x 16 | 8 | 6 | 2 |  | 2 |  |
+| 4          | <strong>Bolt M3 x 5</strong> |  |  |  | 2 | 2 |V|
+| 36         | <strong>Bolt M3 x 10</strong> | 11 | 10 | 10 |  | 5 |V|
+| 18         | <strong>Bolt M3 x 16</strong> | 8 | 6 | 2 |  | 2 |  |
 | 3          | Bolt M4 x 40 |  | 1 | 1 |  | 1 |  |
 | 1          | Bolt M5 x 40 |  |  |  | 1 |  |  |
 | 1          | Bolt M6 x 50 |  |  |  | 1 |  |  |
