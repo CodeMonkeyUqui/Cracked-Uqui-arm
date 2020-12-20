@@ -28,15 +28,16 @@
 | 2          | M5 Lock nut |  |  |  | 2 |  |  |
 | 2          | M6 Lock nut |  |  |  | 2 |  |  |
 | 2          | M8 Lock nut |  | 1 | 1 |  |  |  |
-| 1          | <strong>M5 Washer</strong> |  |  |  | 1 |  |V|
-| 1          | <strong>M8 Washer</strong> |  |  | 1 |  |  |V|
+| 1          | <strong>M5 Washer</strong> |  |  |  | 1 |  |<strong>O</strong>|
+| 1          | <strong>M8 Washer</strong> |  |  | 1 |  |  |<strong>O</strong>|
 | 8          | Bolt M2 x 5 |  |  |  | 4 | 4 |  |
-| 4          | <strong>Bolt M3 x 5</strong> |  |  |  | 2 | 2 |V|
-| 36         | <strong>Bolt M3 x 10</strong> | 11 | 10 | 10 |  | 5 |V|
+| 4          | <strong>Bolt M3 x 5</strong> |  |  |  | 2 | 2 |<strong>O</strong>|
+| 36         | <strong>Bolt M3 x 10</strong> | 11 | 10 | 10 |  | 5 |<strong>O</strong>|
 | 18         | <strong>Bolt M3 x 16</strong> | 8 | 6 | 2 |  | 2 |  |
-| 3          | Bolt M4 x 40 |  | 1 | 1 |  | 1 |  |
+| 3          | <strong>Bolt M4 x 40</strong> |  | 1 | 1 |  | 1 |<strong>O</strong>|
 | 1          | Bolt M5 x 40 |  |  |  | 1 |  |  |
-| 1          | Bolt M6 x 50 |  |  |  | 1 |  |  |
+|            |------M5 x 50 |  |  |  |   |  |<strong>O</strong>|   
+| 1          | <strong>Bolt M6 x 50</strong> |  |  |  | 1 |  |<strong>O</strong>|
 | 1          | Bolt M8 x 40 |  |  | 1 |  |  |  |
 | 1          | Bolt M8 x 55 |  | 1 |  |  |  |  |
 | 2          | Bolt M8 x 90 |  | 1 | 1 |  |  |  |
